@@ -1,0 +1,55 @@
+# Build directories
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# CMake generated files
+*.cmake
+CMakeScripts/
+
+# Compiled binaries and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+*.exe
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Generated executables in build directory
+coordinateTransform
+eigen_demo
+eigen_geo
+helloSlam
+plotTrajectory
+cv_basic
+stereo
+undistort
+lie_example
+trajectoryError
+
+# Temporary and system files
+*.tmp
+*.log
+.gitignore:Zone.Identifier
