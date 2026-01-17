@@ -38,16 +38,6 @@ dist/
 build/
 
 # Generated executables in build directory
-coordinateTransform
-eigen_demo
-eigen_geo
-helloSlam
-plotTrajectory
-cv_basic
-stereo
-undistort
-lie_example
-trajectoryError
 
 # Temporary and system files
 *.tmp
